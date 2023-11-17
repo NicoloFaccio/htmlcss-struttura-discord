@@ -16,6 +16,16 @@ header nav {
 
 }
 
+.navigation-flex {
+    display: flex;
+    justify-content: space-around;
+} 
+
+.menu-flex {
+    display: flex;
+    height: 50px;
+}
+
 #title {
     width: 300px;
     height: 100px;
@@ -57,5 +67,10 @@ section div {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 20px;
+    padding-block: 20px;
 } 
+
+footer {
+    height: 200px;
+    background-color: #23272A; 
+}
