@@ -23,7 +23,14 @@ header nav {
 
 .menu-flex {
     display: flex;
-    height: 50px;
+}
+
+.first-part {
+    width: 100px;
+    height: 20px;
+    list-style: none;
+    background-color: yellow;
+    margin-top: 10px;
 }
 
 #title {
