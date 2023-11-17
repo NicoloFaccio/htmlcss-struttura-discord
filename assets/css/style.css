@@ -16,7 +16,7 @@ header nav {
 
 }
 
-header div {
+header  div {
     width: 300px;
     height: 100px;
     background-color: lime;
@@ -24,7 +24,7 @@ header div {
     margin-block: 30p
 }
 
-.flex-container {
+.flex-title {
     display: flex;
     justify-content: center;
     margin-top: 20px;
