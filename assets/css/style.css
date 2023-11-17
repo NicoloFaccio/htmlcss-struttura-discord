@@ -90,5 +90,16 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 30px;
+}
+
+#information {
+    height: 400px;
+    width: 500px;
+    background-color: darkgreen;
+    margin-top: 50px;
+}
+
+#line {
+    width: 500px;
+    margin-block: 20px;
 }
