@@ -1,1 +1,31 @@
-* {}
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 1px solid red;
+}
+
+header {
+    height: 200px;
+    background-color: #3161E0;
+}
+
+header nav {
+    height: 50px;
+    background-color: aquamarine;
+
+}
+
+header div {
+    width: 300px;
+    height: 100px;
+    background-color: lime;
+    text-align: center;
+    margin-block: 30p
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
