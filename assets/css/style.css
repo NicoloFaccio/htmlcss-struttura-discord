@@ -20,8 +20,6 @@ header  div {
     width: 300px;
     height: 100px;
     background-color: lime;
-    text-align: center;
-    margin-block: 30p
 }
 
 .flex-title {
@@ -29,3 +27,25 @@ header  div {
     justify-content: center;
     margin-top: 20px;
 }
+
+section div {
+    width: 100px;
+    height: 100px;
+}
+
+.white-flex {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.grey-flex {
+    height: 200px;
+    background-color: #F6F6F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+} 
